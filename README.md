@@ -10,4 +10,4 @@ The objective of this project is to develop a book recommendation application fo
 
 # Demo link: 
 
-https://twinkal001-bookify-project-app-088y3q.streamlit.app
+https://twinkal001-bookify-project-app-088y3q.streamlit.app 
